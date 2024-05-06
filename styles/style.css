@@ -1,0 +1,43 @@
+
+input[type="text"],
+input[type="password"] {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+label {
+    margin-bottom: 5px;
+    display: block;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+body {
+    background-color: rgb(189, 185, 185);
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    border: 5px solid black;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+}
